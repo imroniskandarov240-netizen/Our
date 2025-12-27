@@ -1,0 +1,83 @@
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.logotipe{
+   margin-left: 50px;
+}
+
+.tg{
+   position: absolute;
+ margin-left: 1120px;
+ margin-top: 100px;
+  color: black;
+}
+
+.h1{
+   text-align: center;
+}
+
+
+.our{
+  margin-left: 100px;
+   width: 1700px;
+   height: 600px;
+   background-color:whitesmoke;
+   border-radius: 50px;
+}
+
+.sukuna{
+   width: 450px;
+   margin-left: 50px;
+   margin-top: 25px;
+}
+
+.nodir{
+   color: rgb(99, 37, 37);
+   margin-left: 50px;
+}
+
+.info1{
+   color: black;
+   margin-left: 50px;
+}
+
+.imron{
+   color: aqua;
+   margin-top: -80px;
+   margin-left: 600px;
+}
+
+.gojo{
+   position:absolute ;
+   margin-top:-520px;
+   margin-left: 600px;
+   width: 450px;
+   height: 440px;
+}
+
+.info2{
+   color: black;
+   margin-left: 600px;
+}
+
+.jax{
+   position: absolute;
+   margin-top: -500px;
+   margin-left: 1200px;
+   width: 450px;
+   height: 430px;
+}
+
+.mol{
+   color: black;
+   margin-top: -50px;
+   margin-left: 1200px;
+}
+
+.wh{
+   color: rgb(0, 0, 0);
+   margin-left: 1200px;
+}
